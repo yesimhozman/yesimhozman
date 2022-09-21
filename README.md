@@ -2,10 +2,12 @@ Hello visitor :wave:
 ### <i>About</i> 
 - 🔭 I’m currently working on creating websites with React framework and e-commerce websites with Shopware 6.
 - 🌱 I’m currently learning data visualization with R and Vue.js. - 📫 How to reach me: yesimhozman@gmail.com 
-- 😄 Pronouns: she/her - :art: My hobbies are making sculpture, doing puzzle and painting with soft pastel.
+- 😄 Pronouns: she/her 
+- :art: My hobbies are making sculpture, doing puzzle and painting with soft pastel.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Yesim's github stats](https://github-readme-stats.vercel.app/api?username=yesimhozman&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/yesimhozman/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesimhozman&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/yesimhozman/github-readme-stats)
+[![Yesim's github stats](https://github-readme-stats.vercel.app/api?username=yesimhozman&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/yesimhozman/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesimhozman&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/yesimhozman/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>Languages and Tools ⚙</i> 
