@@ -1,9 +1,10 @@
 Hello visitor :wave: 
 ### <i>About</i> 
 - 🔭 I’m currently working on creating websites with React framework and e-commerce websites with Shopware 6.
-- 🌱 I’m currently learning data visualization with R and Vue.js. - 📫 How to reach me: yesimhozman@gmail.com 
+- 🌱 I’m currently learning data visualization with R and Vue.js. 
+- 📫 How to reach me: yesimhozman@gmail.com 
 - 😄 Pronouns: she/her 
-- :art: My hobbies are making sculpture, doing puzzle and painting with soft pastel.
+- :art: My hobbies are going camping, doing puzzle and painting with soft pastel.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Yesim's github stats](https://github-readme-stats.vercel.app/api?username=yesimhozman&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/yesimhozman/github-readme-stats) 
