@@ -7,8 +7,9 @@ Hello visitor :wave:
 - :art: My hobbies are going camping, doing puzzle and painting with soft pastel.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Yesim's github stats](https://github-readme-stats.vercel.app/api?username=yesimhozman&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/yesimhozman/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesimhozman&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/yesimhozman/github-readme-stats)
+<a href="https://github.com/yesimhozman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yesimhozman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yesim's github stats" /></a>
+
+<a href="https://github.com/yesimhozman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesimhozman&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>Languages and Tools ⚙</i> 
