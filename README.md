@@ -1,4 +1,4 @@
-Hello visitor :wave: 
+Hello  :wave: 
 ### <i>About</i> 
 - 🔭 I’m currently working on creating websites with React framework and e-commerce websites with Shopware 6.
 - 🌱 I’m currently learning Vue.js with [Front-End Foxes](https://github.com/FrontEndFoxes). 
