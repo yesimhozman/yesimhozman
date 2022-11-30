@@ -1,7 +1,7 @@
 Hello  :wave: 
 ### <i>About</i> 
-- 🔭 I’m currently working on creating websites with React framework and e-commerce websites with Shopware 6.
-- 🌱 I’m currently learning Vue.js with [Front-End Foxes](https://github.com/FrontEndFoxes). 
+- 🔭 I’m currently working on Vue.js snd React.js Projects.
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: yesimhozman@gmail.com 
 - 😄 Pronouns: she/her 
 - :art: My hobbies are going camping, doing puzzle and painting with soft pastel.
